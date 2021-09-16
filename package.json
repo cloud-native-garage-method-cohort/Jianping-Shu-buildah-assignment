@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "test": "echo jianping shu passed"
+    "test": "echo jianping shu fdfadpassed"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
